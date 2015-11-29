@@ -1,0 +1,8 @@
+# .gitignore
+
+*.suo
+[Oo]bj
+[Bb]in
+[Dd]ebug
+[Pp]ackages
+*.dll
