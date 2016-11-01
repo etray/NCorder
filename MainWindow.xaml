@@ -1,9 +1,0 @@
-﻿<Window x:Class="NCorder.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="NCorder" Height="350" Width="525">
-    <Grid>
-        <TextBox HorizontalAlignment="Left" Height="275" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
-    </Grid>
-</Window>

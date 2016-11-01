@@ -1,11 +1,11 @@
-NCorder - is an audio recorder for web media built on top of NAudio.
+NCorder - is a fully-automatic audio recorder for web media, built on top of the NAudio sound library. It works with the popular chrome browser and can leverage plugins to make your web-recording experience as hassle-free as possible.
 
 Features:
-* Browser-integrated interface
-* Manually start/stop recordings
-* Store media URLs for batch recording while you watch.
-* Automatically detects intros, ads, and outros and only records the main content.
+* Uses Chrome devtools for browser automation.
+* Save video URLs while you browse, or batch record playlists that you have created online.
 
 Compiling:
-Requires NAudio and NAudio.Lame Nuget packages. Visual Studio can auto-load them, but depending on the tools used to build, your mileage may vary. 
+* Launch project.
+* Enable downloading of missing packages in the Nuget settings.
+* Rebuild.
 
